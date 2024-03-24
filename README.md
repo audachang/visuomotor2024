@@ -34,7 +34,7 @@ Python must be installed and set up to interface with R via the `reticulate` pac
    droot2 <- '../vrot_second/data'
    ```
    Confirm that the `data` subdirectories exist and contain your datasets.
-3. Execute the script within your R environment, modifying any paths or parameters to align with your specific dataset structures and analysis objectives.
+3. Execute the script `ana_path.R` within your R environment, in the working directory `vrot_scripts`, modifying any paths or parameters to align with your specific dataset structures and analysis objectives.
 
 ## Contributing
 
